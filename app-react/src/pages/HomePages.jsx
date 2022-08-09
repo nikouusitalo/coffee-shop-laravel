@@ -10,8 +10,8 @@ export class HomePages extends Component {
      render() {
           return (
                <Fragment>
-                    <FeaturedProducts />
                     <HomeTop />
+                    <FeaturedProducts />
                     <Categories />
                     <Collection />
                     <NewArrival />
